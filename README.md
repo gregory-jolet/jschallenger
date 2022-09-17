@@ -1,5 +1,5 @@
 # jschallenger
-Learn Javascript online by solving coding exercises. jschallenger.com(https://www.jschallenger.com/)
+Learn Javascript online by solving coding exercises. [jschallenger.com](https://www.jschallenger.com/)
 
 ## Javascript Basics
 This series of challenges covers the very basics of Javascript.
